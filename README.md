@@ -1,4 +1,4 @@
-# Retail Sales Analysis
+# Sales Forecasting & Revenue Performance Analytics
 
 ## Overview
 Having historical sales data is not enough if you cannot see where 
